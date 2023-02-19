@@ -4,7 +4,7 @@ A tool to turn a codebase into a string for pasting into chatgpt. Currently, onl
 
 ## Usage
 
-1) Clone the repository: git clone https://github.com/your-username/codebase-to-string.git
+1) Clone the repository: git clone https://github.com/alexpaden/codebase-to-string.git
 2) Change directory: cd codebase-to-string
 3) Run the Python script: python codebase_to_string.py
 4) Run the TypeScript script: ts-node codebase_to_string.ts
